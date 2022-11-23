@@ -21,8 +21,8 @@ This is table game ‘Scotland Yard’ implemented in Java. It is my java course
 
 Website:		https://github.com/Meikong-Cui/ScottlandYardGame 
 
-<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/1.png" width="375px">
-<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/2.png" width="375px">
-<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/3.png" width="375px">
-<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/4.png" width="375px">
+<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/1.png" width="375px"><img src="https://github.com/Meikong-Cui/Portfolio/blob/main/2.png" width="375px">
+
+<img src="https://github.com/Meikong-Cui/Portfolio/blob/main/3.png" width="375px"><img src="https://github.com/Meikong-Cui/Portfolio/blob/main/4.png" width="375px">
+
 <img src="https://github.com/Meikong-Cui/Portfolio/blob/main/5.png" width="800px">
