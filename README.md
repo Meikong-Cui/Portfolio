@@ -2,13 +2,13 @@
 Welcome to Yuxin Cui's portfolio:)
 
 ## Particle system in AR games
-Video:    
+Video:    https://youtu.be/XY3S-OplJzU
 
 <img src="https://github.com/Meikong-Cui/Portfolio/blob/main/image/AR_Bullet.png" width="375px"><img src="https://github.com/Meikong-Cui/Portfolio/blob/main/image/AR_Fireball.png" width="375px">
 ![Image text](https://github.com/Meikong-Cui/Portfolio/blob/main/image/AR_Explosion.png)
 
 ## Survivor-like Unity game with DOTS
-Video:    
+Video:    https://youtu.be/wMrlJxJS_DI
 
 ![Image text](https://github.com/Meikong-Cui/Portfolio/blob/main/image/Survivor-like.png)
 
